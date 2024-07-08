@@ -29,3 +29,5 @@ User Login Credential
 
 Username: test@clinic.com
 Password: 1234554321
+<img width="539" alt="image" src="https://github.com/Dantechdevs/Clinic-Management-system/assets/56880881/3a4640d0-baa0-4d66-8bda-7e1b97625021">
+
